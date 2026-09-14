@@ -22,7 +22,7 @@
     "@unpress/deploy": "workspace:*",
     "@unpress/copilot": "workspace:*",
     "dotenv": "^16",
-    "uuid": "^11",
+    "uuid": "^14",
     "zod": "^3"
   },
   "devDependencies": {
