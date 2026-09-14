@@ -27,7 +27,7 @@
   },
   "devDependencies": {
     "typescript": "^5.7",
-    "vitest": "^3",
+    "vitest": "^5",
     "@types/uuid": "^10"
   }
 }
